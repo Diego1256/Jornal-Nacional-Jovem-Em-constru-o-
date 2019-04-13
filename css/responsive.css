@@ -1,0 +1,131 @@
+@media (max-width:600px){
+    .eco{
+        width: 50%;
+        margin: 0.4em;
+    }
+    .postagem p{
+        font-size:0.59em; 
+    }
+    .postagem{
+        height: 50%;
+    }
+    .extenso{
+        height: 50%;
+        bottom: -0.3em;
+    }
+    .extenso p{
+        font-size:0.3em; 
+        padding: 0.5em;
+    }
+    .direita{
+        top:10.45em;
+        padding-bottom: 5em;
+    }
+    .dir{
+        left: 18.8em;
+        width: 14.7%;
+        }
+
+    .esq{
+        left: 23.9em;
+        width: 15.8%;
+    }
+    
+    .bolso{
+        height: 1.6em;
+        bottom: -1.3em;
+    }
+    .neta{
+       height: 1.6em; 
+        bottom: -0.98em;
+    }
+    .logo{
+        transform: scale(0.4);
+        left: 9em;
+        top: -1.3em;
+        margin: 0;
+    }
+    .link{
+        font-size: 1.11em;
+        left: 2.5em;
+        top:3.5em;
+    }
+    #cabecalho{
+        height: 6em;
+    }
+    .logo_rodape{
+        transform: scale(0.5);
+        left: 11em;
+        top: -0.2em;
+    }
+    .link_rodape{
+        display: none;
+    }
+    .marca{
+        transform: scale(0.5);
+        top: 0.01em;
+        left: 9.9em;
+    }
+    #rodape{
+        height: 7em;
+    }
+    .texto{
+        top: 4em;
+        left:5.9em;
+    }
+    .grande{
+        height: 3em;
+    }
+}
+
+@media (max-width:360px){
+    .direita{
+        top:9.5em;
+    }
+    .esq{
+        left: 14.75em;
+        width: 3.2em;
+    }
+    .neta{
+       height: 1.5em; 
+        bottom: -1em;
+    }
+    .dir{
+        left: 18.75em;
+        width: 3.38em;
+    }
+     .bolso{
+        bottom: -1em;
+    }
+    .extenso p{
+        font-size:0.001em; 
+        padding: 0.5em;
+    }
+     .postagem p{
+        font-size:0.505em; 
+         line-height: 1.2em;
+         padding: 0.9em;
+    }
+    .logo_rodape{
+
+        left:8.3em;
+
+    }
+    .marca{
+        left:7em;
+    }
+    .texto{
+        left: 4em;
+    }
+    .logo{
+        left: 6.2em;
+        transform: scale(0.4);
+    }
+    .link{
+       font-size: 0.8em;
+        left: 3.4em;
+        top: 4.9em;
+    }
+}
+    
+   
